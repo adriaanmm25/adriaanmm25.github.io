@@ -58,4 +58,4 @@ btnCloseElement.addEventListener('click', ()=> {
 })
 
 var sound1 = new Audio()
-sound1.src = "sound/cancion.wav"
+sound1.src = "cancion.wav"
